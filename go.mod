@@ -14,5 +14,6 @@ require (
 	github.com/rs/cors v1.7.0 // indirect
 	github.com/steakknife/bloomfilter v0.0.0-20180922174646-6819c0d2a570 // indirect
 	github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3 // indirect
+	github.com/ypapax/jsn v0.0.0-20190821082232-8eea4e4d8470 // indirect
 	golang.org/x/crypto v0.0.0-20190829043050-9756ffdc2472 // indirect
 )
